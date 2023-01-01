@@ -25,7 +25,6 @@ header {
     text-align: center;
 }
 header > h1 {
-    while-space: nowrap;
     font: 10vw var(--fonte-titulo);
     padding-top: 50px;
     font-variant: small-caps;
@@ -75,7 +74,6 @@ section#imagem2 {
 
 
 footer {
-    white-space: nowrap;
     font-size: 1.5vw;
     background-color: black;
     color: white;
